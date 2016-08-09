@@ -1,2 +1,2 @@
-# ghaining.github.com
+# ghaining.github.io
 Fishing-Play
